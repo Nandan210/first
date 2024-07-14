@@ -1,0 +1,17 @@
+p1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1vh;
+}
+
+body {
+    background-color: rgb(161, 122, 225);
+}
